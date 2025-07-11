@@ -7,7 +7,6 @@ AI-powered executive function coach for neurodivergent adults.
 ## ✨ Features
 - ADHD, Autism, Dyslexia support
 - Energy-based nudging (😴 / 😊 / ⚡)
-- Personalized, GPT-4 task breakdowns
 - Dark mode, animation, local history
 
 ## 🧪 Run locally
