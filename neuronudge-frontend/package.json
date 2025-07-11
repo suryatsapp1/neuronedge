@@ -1,4 +1,7 @@
 {
+  "name": "neuronudge",
+  "homepage": "https://suryatsapp.github.io/neuronudge",
+{
   "name": "neuronudge-frontend",
   "version": "1.0.0",
   "scripts": {
